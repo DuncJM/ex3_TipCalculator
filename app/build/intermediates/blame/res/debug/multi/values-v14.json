@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "C:\\201810 Android\\04\\ex3_TipCalculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\201810 Android\\04\\ex3_TipCalculator\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 77,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\user\\AndroidStudioProjects\\ex3_TipCalculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\ex3_TipCalculator\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 77,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\201710 Android\\04\\ex3_TipCalculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\201710 Android\\04\\ex3_TipCalculator\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 77,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    }
+]

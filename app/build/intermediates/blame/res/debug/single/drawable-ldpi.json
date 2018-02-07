@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\201810 Android\\04\\ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "C:\\201810 Android\\04\\ex3_TipCalculator\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\201710 Android\\04\\ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "C:\\201710 Android\\04\\ex3_TipCalculator\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\ex3_TipCalculator\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

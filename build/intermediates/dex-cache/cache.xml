@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\201710 Android\04\ex3_TipCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1656c357c16813574eccc8c6e9244e7ef98ea3e9">
+        <dex dex="C:\201710 Android\04\ex3_TipCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_72b0a24c190059d05b9842758baabb37ab84abeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\201710 Android\04\ex3_TipCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7a44a9665ca5a2d8416837e0939929fb49c215dd">
+        <dex dex="C:\201710 Android\04\ex3_TipCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2ccb0fa3ce69326e115296d8b9fed96ae34a5a03\classes.dex" />
+    </item>
+
+</items>
